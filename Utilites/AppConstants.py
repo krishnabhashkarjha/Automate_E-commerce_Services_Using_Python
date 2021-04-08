@@ -1,5 +1,5 @@
 '''
-@ Author - Shilpa Chatterjee Roy
+
 @ Creation date - 07/06/2018
 @ Description - Declares all the constants to be used at the framework level.
 '''
@@ -29,12 +29,6 @@ TEAM_LIST = ['QB']
 #                       'UN PARTNER', 'SPS','Service Time card']
 
 #Usefull Links
-DC4_PROD_LINK = "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp"
-DC4_PREPROD_LINK = "http://dc4ui.p01.ppd:7777/dc4custmanager/faces/home.jsp"
-JIRA_LINK = "https://atlassian.spscommerce.com/login.jsp"
-LAUNCHPAD_LINK = "https://commerce.spscommerce.com/auth/login/"
-I_AM_TOOL_LINK = "https://iam.spscommerce.com/login/login"
-SALESFORCE_LINK = "https://spscommerce.my.salesforce.com/?ec=302&startURL=%2Fhome%2Fhome.jsp"
 
 
 #Common Xpaths
